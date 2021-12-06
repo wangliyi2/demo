@@ -12,6 +12,7 @@ public class HelloWorldController {
     @ResponseBody
     public String hello(){  
         System.out.println("fadfadfa");
+        System.out.println("aaaaaaaaaaaaaaaaa");
         return "hello world2";
     }
 }
